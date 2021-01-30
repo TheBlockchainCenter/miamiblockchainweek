@@ -11,3 +11,5 @@ Field orders are always 1 more than the largest element. Every field has a prime
 
 
 In order to test Field Elements run the main class `(BlockChain.cpp)` without debugging in visual studio.
+0 = points not on curve
+1 = successful
